@@ -1,0 +1,18 @@
+{
+  "name": "studentportal-mock-backend",
+  "version": "1.0.0",
+  "description": "Mock backend for StudentPortal Angular app (port 7070)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "package.json": "^2.0.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
